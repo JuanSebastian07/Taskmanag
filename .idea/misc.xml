@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../.gradle/caches/transforms-3/38cc4e43d636bd81f501abe33a064e8d/transformed/jetified-play-services-base-17.1.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml" value="0.103" />
+        <entry key="app/src/main/res/drawable/nav_header_main_background.xml" value="0.151" />
+        <entry key="app/src/main/res/drawable/shape_dialog_rounded.xml" value="0.149" />
+        <entry key="app/src/main/res/layout/activity_card_details.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_card_details_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_create_board.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_members.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_my_profile.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_task_list.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/dialog_list.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/dialog_search_members.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/item_board.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/item_card.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/item_card_selected_member.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/item_label_color.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/item_member.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_task.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/main_content.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/menu_add_member.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/menu_delete_card.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/menu_members.xml" value="0.19375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
