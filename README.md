@@ -1,6 +1,6 @@
 # Taskmanag
 
-Taskmanage hace uso de varias funcionalidades de firebase, como es la autenticacion, el registro, almacenamiento para las imagenes, firestore database
+Taskmanage hace uso de varias funcionalidades de firebase, como es la autenticacion, el registro, almacenamiento para las imagenes y firestore database
 
 
 <a href="https://youtu.be/kwidzSQDJIY?si=YqSgaf36ySm2qqb1" target="_blank">
